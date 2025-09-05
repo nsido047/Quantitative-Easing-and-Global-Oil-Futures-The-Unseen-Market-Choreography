@@ -90,5 +90,3 @@ This project provides evidence that unconventional monetary policies by major ce
 For policymakers, the findings suggest that QE has spillover effects beyond domestic financial markets, extending into commodities that are central to global economic stability. For investors, the study underscores that oil futures are sensitive to monetary policy surprises, with implications for risk management and hedging strategies.  
 
 This repository contains the full research workflow, including data sources, analysis scripts, figures, and LaTeX files of the thesis, to enable reproducibility and future research extensions.  
-
----
